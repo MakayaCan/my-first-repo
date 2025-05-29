@@ -1,1 +1,1 @@
-This is my change.
+This is my change.I have just realized that there is a fundamental stage i have been forgetting which is git add.
